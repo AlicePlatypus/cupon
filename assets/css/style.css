@@ -1,0 +1,39 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo {
+    width: 86pt;
+}
+
+.titulo__cupon, .ubicacion__cupon, .precio__antiguo, .texto__formulario, .texto__footer, .nombre__ubicacion {
+    font-weight: 300;
+}
+
+/* Cupon */
+
+.ubicacion__cupon {
+    font-size: 9pt;
+}
+
+.nombre__ubicacion {
+    font-size: 12pt;
+}
+
+.precio__antiguo {
+    font-size: 10pt;
+}
+
+.precio__nuevo {
+    font-size: 15pt;
+}
+
+.titulo__formulario {
+    font-size: 15pt;
+    text-align: center;
+}
+
+.logo__negro {
+    width: 82pt;
+}
+
